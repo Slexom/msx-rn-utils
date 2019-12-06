@@ -18,13 +18,4 @@ node_modules/
 .idea/@msx-rn-utils.iml
 .idea/misc.xml
 .idea/modules.xml
-LICENSE
-README.md
-index.js
-isTablet/
-node_modules/
-normalizeSize/
-package.json
-shadowGenerator/
-storage/
 yarn.lock
